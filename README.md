@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fredagsmys, my real name is Max Mattsson. I'm a student on Uppsala University studying Engineering Physics on my second year.
+- 👋 Hi, I’m Fredagsmys, my real name is Max Mattsson. I'm a student at Uppsala University studying Engineering Physics on my second year.
 - 👀 On my spare time i focus on app development and electronics such as microprocessors and sensors. 
 - 🌱 I’m currently learning flutter to create apps for both IOS and Android.
 
